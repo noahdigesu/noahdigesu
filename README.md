@@ -17,7 +17,7 @@ I'm a young developer in his second year of bachelor's degree with a great inter
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp_32x32.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html_32x32.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/css/css_32x32.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php_32x32.png" />
