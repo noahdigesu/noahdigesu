@@ -4,12 +4,12 @@
 [![linkedin](https://img.shields.io/badge/linkedin-noahdigesu2001-orange)](https://www.linkedin.com/in/noah-di-gesu2001)<br>
 
 ### Hi there - I'm Noah 👋
-I'm a young developer in his second year of bachelor's degree with a great interest in cyber-security and a growing curiosity about artificial intelligence.
+I'm a young developer in his second year of bachelor's degree with a great interest in cyber-security and a growing curiosity about artificial intelligence.<br><br>
 
 ## Passionate about informatics and creative ! ✨
   - 🔭 I want to learn *React.js* by the end of 2021.
   - 🌱 I’m currently learning *composer* and *laravel*.
-  - 📫 You can reach me by *Email* at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or *Twitter* [@noahdigesu](https://twitter.com/noahdigesu).
+  - 📫 You can reach me by *Email* at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or *Twitter* [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
 
 ## Skills 💻
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -25,7 +25,7 @@ I'm a young developer in his second year of bachelor's degree with a great inter
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br><br>
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br><br><br>
 
 <details>
   <summary>:zap: Latest (public) projects</summary>
