@@ -3,15 +3,15 @@
 [![instagram](https://img.shields.io/badge/instagram-@n.di.gesu-orange)](https://www.instagram.com/n.di.gesu)
 [![linkedin](https://img.shields.io/badge/linkedin-noahdigesu2001-orange)](https://www.linkedin.com/in/noah-di-gesu2001)<br>
 
-### Hi there - I'm Noah <img alt="Book" width="26px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/battery-charging.svg" />
+### Hi there - I'm Noah :wave:
 I'm a young developer in his second year of bachelor's degree with a great interest in cyber-security and a growing curiosity about artificial intelligence.<br><br>
 
 ## Passionate about informatics and creative ! ✨
-  - <img alt="Book" width="20px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/book-open.svg" /> I want to learn *React.js* by the end of 2021.
-  - <img alt="Book" width="20px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/eye.svg" /> I’m currently learning *composer* and *laravel*.
-  - <img alt="Book" width="20px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/send.svg" /> You can reach me by *Email* at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or *Twitter* [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
+  - 🔭 I want to learn *React.js* by the end of 2021.
+  - 📖 I’m currently learning *composer* and *laravel*.
+  - 📫 You can reach me by *Email* at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or *Twitter* [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
 
-## Skills <img alt="Book" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/list.svg" />
+## Skills ✔️
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_32x32.png" />
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c_32x32.png" />
 <img align="left" alt="CPP" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp_32x32.png" />
