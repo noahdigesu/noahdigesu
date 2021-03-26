@@ -28,7 +28,8 @@ I'm a young developer in his second year of bachelor's degree with a great inter
 <img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Photoshop" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
-<img align="left" alt="Lightroom" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" /><br><br><br>
+<img align="left" alt="Lightroom" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" />
+<img align="left" alt="Lightroom" width="32px" src="https://img.favpng.com/25/14/4/figma-user-interface-design-designer-logo-png-favpng-dtBqP6sV3PhEQ2AfU73dHpCwR.jpg" /><br><br><br>
 
 <details>
   <summary>:zap: Latest (public) projects</summary>
