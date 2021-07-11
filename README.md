@@ -7,8 +7,8 @@
 I'm a young developer in his second year of bachelor's degree with a great interest in cyber-security and a growing curiosity about artificial intelligence.<br><br>
 
 ## Passionate about informatics and creative ! ✨
-  - 🔭 I want to learn *React.js* by the end of 2021.
-  - 📖 I’m currently learning *composer* and *laravel*.
+  - 🔭 I want to learn *Vue.js* by the end of 2021.
+  - 📖 I’m currently learning *laravel*.
   - 📫 You can reach me by *Email* at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or *Twitter* [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
 
 ## Skills ✔️
