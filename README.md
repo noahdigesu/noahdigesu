@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-noahdigesu2001-orange)](https://www.linkedin.com/in/noah-di-gesu2001)<br>
 
 ### Hi there - I'm Noah :wave:
-I'm a young developer in his second year of bachelor's degree with a great interest in cyber-security and a growing curiosity about artificial intelligence.<br><br>
+I'm a young developer in his third year of bachelor's degree with a great interest in cyber-security and a growing curiosity about artificial intelligence.<br><br>
 
 ## Passionate about informatics and creative ! ✨
   - 🔭 I want to learn *Vue.js* by the end of 2021.
