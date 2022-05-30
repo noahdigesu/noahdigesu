@@ -1,12 +1,13 @@
 [![website](https://img.shields.io/badge/website-noahdigesu.com-orange)](https://www.noahdigesu.com/)
 [![twitter](https://img.shields.io/badge/twitter-@noahdigesu-orange)](https://www.twitter.com/noahdigesu)
-[![instagram](https://img.shields.io/badge/instagram-@n.di.gesu-orange)](https://www.instagram.com/n.di.gesu)
-[![linkedin](https://img.shields.io/badge/linkedin-noahdigesu2001-orange)](https://www.linkedin.com/in/noah-di-gesu2001)<br>
+[![linkedin](https://img.shields.io/badge/linkedin-noahdigesu2001-orange)](https://www.linkedin.com/in/noah-di-gesu2001)
+[![smart spend](https://img.shields.io/badge/twitter-@smartspend_app-green)](https://twitter.com/smartspend_app/)<br>
 
 ### Hi there - I'm Noah :wave:
-I'm a young developer in his third year of bachelor's degree with a great interest in cyber-security and a growing curiosity about artificial intelligence.<br><br>
+I'm a young developer in his third year of bachelor's degree with a great interest in cyber-security, coding and a growing curiosity about entrepreneurship.<br><br>
 
 ## Passionate about informatics and creative ! ✨
+  - 🤑 I am currently working on my own project, [Smart Spend](https://twitter.com/smartspend_app/)
   - 🔭 I want to learn *Vue.js* by the end of 2022.
   - 📖 I’m currently learning *laravel*.
   - 📫 You can reach me by *Email* at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or via *Twitter* [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
