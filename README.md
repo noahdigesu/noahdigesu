@@ -4,12 +4,15 @@
 [![smart spend](https://img.shields.io/badge/smart_spend-@smartspend_app-green)](https://twitter.com/smartspend_app/)<br>
 
 ### Hi there - I'm Noah :wave:
-I'm a young developer in his third year of bachelor's degree with a great interest in cyber-security, coding and a growing curiosity about entrepreneurship.<br><br>
+I'm a young developer with a bachelor's degree in IT and a great interest in cyber-security, coding and a growing curiosity about entrepreneurship.<br><br>
 
 ## Passionate about informatics and creative ! ✨
-  - 🤑 I am currently working on my own project, [Smart Spend](https://twitter.com/smartspend_app/)
-  - 📈 I am trying to build a bigger [Twitter](https://www.twitter.com/noahdigesu) community !
-  - 📫 You can reach me by **Email** at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or via **Twitter** [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
+  🤑 I am currently working on my own project, [Smart Spend](https://twitter.com/smartspend_app/)  
+  📈 I am trying to build a bigger [Twitter](https://www.twitter.com/noahdigesu) community !  
+  📫 You can reach me by **Email** at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or via **Twitter** [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
+  
+## Tools I love ! 🤩
+You can find tools & customisations I use daily [@noahdigesu/tools](https://github.com/noahdigesu/tools/) 👈
 
 ## Skills ✔️
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_32x32.png" />
