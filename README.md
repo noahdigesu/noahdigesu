@@ -1,16 +1,15 @@
-[![website](https://img.shields.io/badge/website-noahdigesu.com-orange)](https://www.noahdigesu.com/)
 [![twitter](https://img.shields.io/badge/twitter-@noahdigesu-orange)](https://www.twitter.com/noahdigesu)
-[![linkedin](https://img.shields.io/badge/linkedin-noahdigesu2001-orange)](https://www.linkedin.com/in/noah-di-gesu2001)
-[![smart spend](https://img.shields.io/badge/twitter-@smartspend_app-green)](https://twitter.com/smartspend_app/)<br>
+[![linkedin](https://img.shields.io/badge/linkedin-@noahdigesu-orange)](https://www.linkedin.com/in/noahdigesu)
+[![links](https://img.shields.io/badge/links-noahdigesu.com/links-orange)](https://www.noahdigesu.com/links)
+[![smart spend](https://img.shields.io/badge/smart_spend-@smartspend_app-green)](https://twitter.com/smartspend_app/)<br>
 
 ### Hi there - I'm Noah :wave:
 I'm a young developer in his third year of bachelor's degree with a great interest in cyber-security, coding and a growing curiosity about entrepreneurship.<br><br>
 
 ## Passionate about informatics and creative ! ✨
   - 🤑 I am currently working on my own project, [Smart Spend](https://twitter.com/smartspend_app/)
-  - 🔭 I want to learn *Vue.js* by the end of 2022.
-  - 📖 I’m currently learning *laravel*.
-  - 📫 You can reach me by *Email* at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or via *Twitter* [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
+  - 📈 I am trying to build a bigger [Twitter](https://www.twitter.com/noahdigesu) community !
+  - 📫 You can reach me by **Email** at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or via **Twitter** [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
 
 ## Skills ✔️
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_32x32.png" />
@@ -36,9 +35,9 @@ I'm a young developer in his third year of bachelor's degree with a great intere
   <summary>:zap: Latest (public) projects</summary>
   
 <!--START_SECTION:activity-->
-1. [Safr](https://noahdigesu.com/projects/safr/) - Easily download firefox extensions for your browser to keep you away from online harm.
-2. [Repst.it](https://noahdigesu.com/projects/repst.it/) - Ever wanted to repost Instagram pictures without being harrased by adds ?
-3. [Terminal](https://noahdigesu.com/projects/terminal/) - Just a fun terminal project.
+1. [Bitwarden desktop](https://github.com/noahdigesu/bitwarden-desktop) - Have access to your passwords without having to launch your browser and wait for everything to load !
+2. [Safr](https://noahdigesu.com/projects/safr/) - Easily download firefox extensions for your browser to keep you away from online harm.
+3. [Repst.it](https://noahdigesu.com/projects/repst.it/) - Ever wanted to repost Instagram pictures without being harrased by adds ?
 4. [Brick breaker](https://noahdigesu.com/projects/brickbreaker/) - A brick breaker game made entirely from pure JavaScript.
 5. [The smart linguist](https://noahdigesu.com/projects/duonono/) - A duolingo inspired game.
 <!--END_SECTION:activity-->
