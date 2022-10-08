@@ -1,15 +1,15 @@
 [![twitter](https://img.shields.io/badge/twitter-@noahdigesu-orange)](https://www.twitter.com/noahdigesu)
 [![linkedin](https://img.shields.io/badge/linkedin-@noahdigesu-orange)](https://www.linkedin.com/in/noahdigesu)
 [![links](https://img.shields.io/badge/links-noahdigesu.com/links-orange)](https://www.noahdigesu.com/links)
-[![smart spend](https://img.shields.io/badge/smart_spend-@smartspend_app-green)](https://twitter.com/smartspend_app/)<br>
+[![smoothey](https://img.shields.io/badge/smoothey_🥤-@smootheyapp-white)](https://smoothey.app/)<br>
 
 ### Hi there - I'm Noah :wave:
-I'm a young developer with a bachelor's degree in IT and a great interest in cyber-security, coding and a growing curiosity about entrepreneurship.<br><br>
+I'm a developer graduate studying Cybersecurity & Networking @ OS3 in Amsterdam ! I am currently working on [Smoothey 🥤](https://smoothey.app/), which allows me to directly apply my coding knowledge for websites and apps whilst also introducing me to the world of entrepreneurship !<br><br>
 
-## Passionate about informatics and creative ! ✨
-  🤑 I am currently working on my own project, [Smart Spend](https://twitter.com/smartspend_app/)  
+## Passionate about informatics - and creative ! ✨
+  🥤 I am currently working on my own project, [Smoothey 🥤](https://smoothey.app/)  
   📈 I am trying to build a bigger [Twitter](https://www.twitter.com/noahdigesu) community !  
-  📫 You can reach me by **Email** at [noah.digesu@protonmail.com](mailto:noah.digesu@protonmail.com) or via **Twitter** [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
+  📫 You can reach me by **Email** at [contact@noahdigesu.com](mailto:contact@noahdigesu.com) or via **Twitter** [@noahdigesu](https://twitter.com/noahdigesu).<br><br>
   
 ## Tools I love ! 🤩
 You can find tools & customisations I use daily [@noahdigesu/tools](https://github.com/noahdigesu/tools/) 👈
@@ -38,7 +38,7 @@ You can find tools & customisations I use daily [@noahdigesu/tools](https://gith
   <summary>:zap: Latest (public) projects</summary>
   
 <!--START_SECTION:activity-->
-1. [Bitwarden desktop](https://github.com/noahdigesu/bitwarden-desktop) - Have access to your passwords without having to launch your browser and wait for everything to load !
+1. [Smoothey 🥤](https://smoothey.app/) - The easiest way to stay on top of your expenses and track your wealth - by yourself or with others. 
 2. [Safr](https://noahdigesu.com/projects/safr/) - Easily download firefox extensions for your browser to keep you away from online harm.
 3. [Repst.it](https://noahdigesu.com/projects/repst.it/) - Ever wanted to repost Instagram pictures without being harrased by adds ?
 4. [Brick breaker](https://noahdigesu.com/projects/brickbreaker/) - A brick breaker game made entirely from pure JavaScript.
