@@ -1,6 +1,6 @@
 [![twitter](https://img.shields.io/badge/twitter-@noahdigesu-orange)](https://www.twitter.com/noahdigesu)
 [![linkedin](https://img.shields.io/badge/linkedin-@noahdigesu-orange)](https://www.linkedin.com/in/noahdigesu)
-[![links](https://img.shields.io/badge/links-noahdigesu.com/links-orange)](https://www.noahdigesu.com/links)
+[![links](https://img.shields.io/badge/links_🔗-links.noahdigesu.com-orange)](https://www.links.noahdigesu.com)
 [![smoothey](https://img.shields.io/badge/smoothey_🥤-@smootheyapp-white)](https://smoothey.app/)<br>
 
 ### Hi there - I'm Noah :wave:
